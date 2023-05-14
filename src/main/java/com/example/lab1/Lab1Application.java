@@ -18,7 +18,7 @@ public class Lab1Application implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		logger.info("Its my second logger")
+		logger.info("Its my second logger");
 		
 	}
 
