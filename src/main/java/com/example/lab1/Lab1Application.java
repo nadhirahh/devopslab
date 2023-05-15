@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Lab1Application implements CommandLineRunner {
 	
-// 	public static final org.slf4j.Logger logger = LoggerFactory.getLogger(Lab1Application.class); 
+	public static final org.slf4j.Logger logger = LoggerFactory.getLogger(Lab1Application.class); 
 
 	public static void main(String[] args) {
 		logger.info("Its a continuous integration");
