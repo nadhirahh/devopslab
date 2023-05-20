@@ -19,7 +19,7 @@ public class Lab1Application implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 		logger.info("Its my second logger");
-		logger.info("my second commit");
+		logger.info("my second commit")
 		
 	}
 
